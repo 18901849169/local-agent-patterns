@@ -1,0 +1,14 @@
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+*.log
+*.pem
+*.key
+*.pdf
+outputs/
+data/
